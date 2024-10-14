@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: 'CentraNube';
+    src: url('centranube-mediumitalic-webfont.woff2') format('woff2'),
+         url('centranube-mediumitalic-webfont.woff') format('woff'),
+         url('centranube-mediumitalic-webfont.ttf') format('truetype'),
+         url('centranube-mediumitalic-webfont.eot') format('eot');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CentraNube';
+    src: url('centranube-bookitalic-webfont.woff2') format('woff2'),
+         url('centranube-bookitalic-webfont.woff') format('woff'),
+         url('centranube-bookitalic-webfont.ttf') format('truetype'),
+         url('centranube-bookitalic-webfont.eot') format('eot');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CentraNube';
+    src: url('centranube-book-webfont.woff2') format('woff2'),
+         url('centranube-book-webfont.woff') format('woff'),
+         url('centranube-book-webfont.ttf') format('truetype'),
+         url('centranube-book-webfont.eot') format('eot');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CentraNube';
+    src: url('centranube-medium-webfont.woff2') format('woff2'),
+         url('centranube-medium-webfont.woff') format('woff'),
+         url('centranube-medium-webfont.ttf') format('truetype'),
+         url('centranube-medium-webfont.eot') format('eot');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Geist';
+    src: url('Geist-Variable.woff2') format('woff2'),
+         url('Geist-Variable.woff') format('woff'),
+         url('Geist-Variable.ttf') format('truetype'),
+    font-weight: 400 700;
+    font-style: normal;
+    font-display: swap;
+}
+
